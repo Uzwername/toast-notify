@@ -1,0 +1,34 @@
+{
+  "name": "toast-notification-alert",
+  "version": "1.0.1",
+  "description": "Renders toast messages",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ighotouch/toast-notify.git"
+  },
+  "keywords": [
+    "react",
+    "toast",
+    "toast-messages",
+    "notifications"
+  ],
+  "author": "Igho Matthew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ighotouch/toast-notify/issues"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/ighotouch/toast-notify#readme",
+  "devDependencies": {},
+  "dependencies": {},
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  }
+}
