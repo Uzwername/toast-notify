@@ -1,6 +1,5 @@
 # TOAST NOTIFY
 
-version: `0.0.1`
 
 ## Features
 
@@ -19,9 +18,10 @@ toast.show({title: 'first toast', position: 'topleft'})
 
 STEP ONE 
 
-Running the script directly on the console
-1.  Copy the script
-2.  Run `toast.show({title: 'first toast', position: 'topleft'})`
+Running the script directly on the browser console
+1.  Copy the index script from `lib/index.umd.js`
+2.  Paste in browser console
+3.  Run `toast.show({title: 'first toast', position: 'topleft'})`
 
 STEP TWO (Via NPM) Recommended
 
