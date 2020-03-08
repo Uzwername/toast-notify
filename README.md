@@ -25,6 +25,14 @@ Running the script directly on the console
 
 STEP TWO (Via NPM) Recommended
 
+ `npm i toast-notification-alert`
+ 
+```js
+import { toast } from 'toast-notification-alert'
+
+toast.show({title: 'first toast', position: 'topright', type: 'info'})
+```
+
 Now you're ready to rumble!
 
 ## Show() Options
