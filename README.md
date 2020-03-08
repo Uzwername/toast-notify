@@ -29,11 +29,12 @@ Now you're ready to rumble!
 
 ## Show() Options
 
-|Option|Description|Platform|
+|Option|Description|
 |-|:-----:|
 |`message`|Message to be displayed
 |`position`|topleft, topright,bottomleft, bottomright, bottomfullwidth, topfullwidth, bottomcenter, topcenter
 |`type`|warn, info, alert
+
 
 ## NOTE
 
